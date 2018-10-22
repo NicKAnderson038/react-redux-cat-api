@@ -29,6 +29,3 @@ In order to run unit tests, type 'control C' on pc or 'command C' on mac if the 
 2. First test will confirm the initalState setup on page load.
 3. The second test will simulate a picture selected on the homepage prior to saving it to favorites.
 4. The last test will simulate a picture selected from favoites prior to removing it from favorites.
-# react-redux-cat-api
-# react-redux-cat-api
-# react-cat-api
